@@ -1,6 +1,5 @@
-# Phaser-game
 Project Title
-**Pixel-Smash**
+# Pixel-Smash
 
 **Team Members**
 
